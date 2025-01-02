@@ -54,6 +54,11 @@ ContactSheet( https://store.diver-x.jp/products/contactsheet )をPico4のコン�
 * フタを付けて固定する(任意)
   * M1.7のタッピングねじを使用することで固定できるはずです。
 
+## 組み立て例
+<img alt="" src="Images/left_top.jpg" width="30%">
+<img alt="" src="Images/left_inside1.jpg" width="30%">
+<img alt="" src="Images/left_inside2.jpg" width="30%">
+
 ## License
 * Modelについて、"Pico 4 controller 3D scan" by LWC (CC by 4.0) https://www.printables.com/model/300620-pico-4-controller-3d-scan
   のデータを元に作成されているため、CC by 4.0 が適用されます。
