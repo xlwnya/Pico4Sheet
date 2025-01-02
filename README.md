@@ -11,6 +11,7 @@ ContactSheet( https://store.diver-x.jp/products/contactsheet )をPico4のコン�
 
 ## FlexGerber
 * タッチセンサ用フレキ基板のガーバーファイルです。左右それぞれをjlcpcbで製造を行う想定です。
+  * EasyEDA Pro で作成したデータです 基板設計: https://oshwlab.com/xlwnya/pico4sheet
   * FlexGerber/Gerber_Pico4Sheet_2L_2024-09-26.zip 左用
   * FlexGerber/Gerber_Pico4Sheet_2R_2024-09-26.zip 右用
 * 割引の関係上、左右それぞれの注文を別々に行う必要があります。
