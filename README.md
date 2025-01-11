@@ -42,6 +42,7 @@ ContactSheet( https://store.diver-x.jp/products/contactsheet )をPico4のコン�
   * フタの構造はあまりちゃんとした形になっていません。(実際のところフタは必要ではないです)
   * フタのみでは基板およびバッテリーの固定に不十分なためテープ等で固定する必要があります。
   * 基板のUSB端子部分はプリント時の誤差により入りにくい可能性があります(恐らく曲げるなどをすると入ります)
+  * 中指の接点が小さめのため、中指がまっすぐになりやすいです。導電性のテープで中指の接点を延長することで改善できます。
 
 ## 使用方法
 * 筐体にフレキ基板を両面テープで貼り付ける。
@@ -61,6 +62,10 @@ ContactSheet( https://store.diver-x.jp/products/contactsheet )をPico4のコン�
 <img alt="" src="Images/left_top.jpg" width="30%">
 <img alt="" src="Images/left_inside1.jpg" width="30%">
 <img alt="" src="Images/left_inside2.jpg" width="30%">
+
+中指の接点を導電性のテープ等で延長することで中指のトラッキングを良くすることができます。
+
+<img alt="" src="images/better_middle_fix.jpg" width="30%">
 
 ## License
 * Modelについて、"Pico 4 controller 3D scan" by LWC (CC by 4.0) https://www.printables.com/model/300620-pico-4-controller-3d-scan
