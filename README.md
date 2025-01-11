@@ -65,7 +65,7 @@ ContactSheet( https://store.diver-x.jp/products/contactsheet )をPico4のコン�
 
 中指の接点を導電性のテープ等で延長することで中指のトラッキングを良くすることができます。
 
-<img alt="" src="images/better_middle_fix.jpg" width="30%">
+<img alt="" src="lmages/better_middle_fix.jpg" width="30%">
 
 ## License
 * Modelについて、"Pico 4 controller 3D scan" by LWC (CC by 4.0) https://www.printables.com/model/300620-pico-4-controller-3d-scan
